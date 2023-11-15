@@ -26,9 +26,6 @@ Collaboration is at the heart of everything we do. We work closely with our clie
 
 Excellence is non-negotiable. From the initial conceptualization to the final execution, we maintain the highest standards of quality in every aspect of our work. Our commitment to excellence is what sets us apart and defines the CodeCrafted Ventures experience.
 
-## Our Team
-
-Meet the brilliant minds behind CodeCrafted Ventures – a diverse team of developers, designers, and innovators dedicated to shaping the future of technology. Learn more about the individuals driving our success.
 
 ## Join Us on the Journey
 

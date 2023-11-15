@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Welcome to CodeCrafted Ventures
 
 ## Innovate with Confidence, Code with Craftsmanship
 
