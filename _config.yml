@@ -21,15 +21,7 @@
 title: Code Crafted Ventures
 email: djefobey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  At CodeCrafted Ventures, we are the architects of a digital evolution, 
-  pioneering the intersection of innovation and technology. 
-  With a passion for precision and an unwavering commitment to excellence, 
-  we embark on a journey where code is not just lines but a canvas for creativity. 
-  Our mission is clear: to transform ambitious ideas into seamless, 
-  cutting-edge digital experiences. We believe in the power of innovation to shape the future, 
-  and at CodeCrafted Ventures, we craft more than just code; we craft possibilities. 
-  Join us in redefining the landscape of technology, where every project is a testament to our 
-  dedication to brilliance, and every line of code tells a story of innovation.
+  Crafting Tomorrow's Tech Today.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://CodeCraftedVentures.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CodeCraftedVentures
